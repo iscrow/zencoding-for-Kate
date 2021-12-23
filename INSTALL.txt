@@ -1,0 +1,6 @@
+INSTALLATION: place in $KDEHOME/share/apps/katepart/script - For example: /home/USERNAME/.kde4/share/apps/katepart/script or /usr/share/apps/katepart/script ***
+Change Shortcuts: In kate click on Settings/Configure Shortcuts/Kate Part or modify the defaults in the file under function action(cmd)
+One last thing. "Wrap With Abbreviation" requires you to select some text, trigger the action (Default Shortcut Ctrl+Shift+w) and then input the abbreviation that will
+wrap the selection. Since Kate's JavaScript API has no way of displaying an input box, the action, when triggered, will open the kate command line and place itself there.
+Simply enter the abbreviation you want after the action name (delimited by space) and press enter. Zen will then expand the abbreviation and wrap your selection with it.
+
