@@ -8,3 +8,5 @@ Some people liked it.
 Someone posted it to github some time later [https://github.com/kursusHC/Zen-Coding-for-Kate](https://github.com/kursusHC/Zen-Coding-for-Kate)
 
 Here's the original copy.
+
+The original link to dropbox I shared is still alive as of late 2021 [https://www.dropbox.com/s/c6yrn96l49b1hrb/zen.js](https://www.dropbox.com/s/c6yrn96l49b1hrb/zen.js)
